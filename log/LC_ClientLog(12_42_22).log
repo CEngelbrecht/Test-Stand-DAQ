@@ -1,0 +1,57 @@
+DEBUG:1:Connection Successful at Thu Jan 18 12:42:25 2018
+DEBUG:1: at (12:42:57)
+DEBUG:1:relay1_open at Thu Jan 18 12:42:57 2018
+DEBUG:1:Relay_1_ON at (12:42:57)
+DEBUG:1: at (12:42:58)
+DEBUG:1:relay2_open at Thu Jan 18 12:42:58 2018
+DEBUG:1:Relay_2_ON at (12:42:58)
+DEBUG:1: at (12:42:58)
+DEBUG:1:relay3_open at Thu Jan 18 12:42:58 2018
+DEBUG:1:Relay_3_ON at (12:42:58)
+DEBUG:1: at (12:42:59)
+DEBUG:1:relay4_open at Thu Jan 18 12:42:59 2018
+DEBUG:1:Relay_4_ON at (12:42:59)
+DEBUG:1: at (12:42:59)
+DEBUG:1:relay5_open at Thu Jan 18 12:42:59 2018
+DEBUG:1:Relay_5_ON at (12:42:59)
+DEBUG:1: at (12:43:00)
+DEBUG:1:relay1_close at Thu Jan 18 12:43:00 2018
+DEBUG:1:Relay_4_OFF at (12:43:00)
+DEBUG:1: at (12:43:01)
+DEBUG:1:relay3_close at Thu Jan 18 12:43:01 2018
+DEBUG:1:Relay_3_OFF at (12:43:01)
+DEBUG:1: at (12:43:01)
+DEBUG:1:relay1_close at Thu Jan 18 12:43:01 2018
+DEBUG:1:Relay_1_OFF at (12:43:01)
+DEBUG:1: at (12:43:02)
+DEBUG:1:Vents Close at Thu Jan 18 12:43:02 2018
+DEBUG:1: at (12:43:03)
+DEBUG:1:Vents Close at Thu Jan 18 12:43:03 2018
+DEBUG:1: at (12:43:03)
+DEBUG:1:Vents Close at Thu Jan 18 12:43:03 2018
+DEBUG:1: at (12:43:04)
+DEBUG:1:Vents Open at Thu Jan 18 12:43:04 2018
+DEBUG:1: at (12:43:14)
+DEBUG:1:Vents Close at Thu Jan 18 12:43:14 2018
+DEBUG:1: at (12:43:14)
+DEBUG:1:Vents Close at Thu Jan 18 12:43:14 2018
+DEBUG:1: at (12:46:23)
+DEBUG:1:relay3_open at Thu Jan 18 12:46:23 2018
+DEBUG:1:Relay_3_ON at (12:46:23)
+DEBUG:1: at (12:46:24)
+DEBUG:1:relay1_open at Thu Jan 18 12:46:24 2018
+DEBUG:1:Relay_1_ON at (12:46:24)
+DEBUG:1: at (12:46:43)
+DEBUG:1:Vents Close at Thu Jan 18 12:46:43 2018
+DEBUG:1: at (12:46:58)
+DEBUG:1:Vents Close at Thu Jan 18 12:46:58 2018
+DEBUG:1: at (12:47:17)
+DEBUG:1:Vents Close at Thu Jan 18 12:47:17 2018
+DEBUG:1: at (12:47:27)
+DEBUG:1:Vents Close at Thu Jan 18 12:47:27 2018
+DEBUG:1: at (12:49:31)
+DEBUG:1:relay6_open at Thu Jan 18 12:49:31 2018
+DEBUG:1:Relay_6_ON at (12:49:31)
+DEBUG:1: at (12:50:13)
+DEBUG:1:relay6_close at Thu Jan 18 12:50:13 2018
+DEBUG:1:Relay_6_OFF at (12:50:13)

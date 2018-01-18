@@ -1,0 +1,73 @@
+DEBUG:1:Connection Successful at Wed Jan 17 10:48:35 2018
+DEBUG:1: at (10:48:40)
+DEBUG:1:relay1_open at Wed Jan 17 10:48:40 2018
+DEBUG:1:Relay_1_ON at (10:48:40)
+DEBUG:1: at (10:48:43)
+DEBUG:1:relay1_close at Wed Jan 17 10:48:43 2018
+DEBUG:1:Relay_1_OFF at (10:48:43)
+DEBUG:1: at (10:48:44)
+DEBUG:1:relay2_open at Wed Jan 17 10:48:44 2018
+DEBUG:1:Relay_2_ON at (10:48:44)
+DEBUG:1: at (10:48:45)
+DEBUG:1:relay2_close at Wed Jan 17 10:48:45 2018
+DEBUG:1:Relay_2_OFF at (10:48:45)
+DEBUG:1: at (10:48:46)
+DEBUG:1:relay2_open at Wed Jan 17 10:48:46 2018
+DEBUG:1:Relay_2_ON at (10:48:46)
+DEBUG:1: at (10:48:47)
+DEBUG:1:relay2_close at Wed Jan 17 10:48:47 2018
+DEBUG:1:Relay_2_OFF at (10:48:47)
+DEBUG:1: at (10:48:49)
+DEBUG:1:relay2_open at Wed Jan 17 10:48:49 2018
+DEBUG:1:Relay_2_ON at (10:48:49)
+DEBUG:1: at (10:48:51)
+DEBUG:1:relay2_close at Wed Jan 17 10:48:51 2018
+DEBUG:1:Relay_2_OFF at (10:48:51)
+DEBUG:1: at (10:48:53)
+DEBUG:1:relay3_open at Wed Jan 17 10:48:53 2018
+DEBUG:1:Relay_3_ON at (10:48:53)
+DEBUG:1: at (10:48:54)
+DEBUG:1:relay3_close at Wed Jan 17 10:48:54 2018
+DEBUG:1:Relay_3_OFF at (10:48:54)
+DEBUG:1: at (10:48:55)
+DEBUG:1:relay4_open at Wed Jan 17 10:48:55 2018
+DEBUG:1:Relay_4_ON at (10:48:55)
+DEBUG:1: at (10:48:56)
+DEBUG:1:relay1_close at Wed Jan 17 10:48:56 2018
+DEBUG:1:Relay_4_OFF at (10:48:56)
+DEBUG:1: at (10:48:58)
+DEBUG:1:relay5_open at Wed Jan 17 10:48:58 2018
+DEBUG:1:Relay_5_ON at (10:48:58)
+DEBUG:1: at (10:48:59)
+DEBUG:1:relay5_close at Wed Jan 17 10:48:59 2018
+DEBUG:1:Relay_5_OFF at (10:48:59)
+DEBUG:1: at (10:49:00)
+DEBUG:1:relay6_open at Wed Jan 17 10:49:00 2018
+DEBUG:1:Relay_6_ON at (10:49:00)
+DEBUG:1: at (10:49:01)
+DEBUG:1:relay6_close at Wed Jan 17 10:49:01 2018
+DEBUG:1:Relay_6_OFF at (10:49:01)
+DEBUG:1: at (10:49:02)
+DEBUG:1:relay7_open at Wed Jan 17 10:49:02 2018
+DEBUG:1:Relay_7_ON at (10:49:02)
+DEBUG:1: at (10:49:02)
+DEBUG:1:relay7_close at Wed Jan 17 10:49:02 2018
+DEBUG:1:Relay_7_OFF at (10:49:02)
+DEBUG:1: at (10:49:04)
+DEBUG:1:relay8_open at Wed Jan 17 10:49:04 2018
+DEBUG:1:Relay_8_ON at (10:49:04)
+DEBUG:1: at (10:49:05)
+DEBUG:1:relay8_close at Wed Jan 17 10:49:05 2018
+DEBUG:1:Relay_8_OFF at (10:49:05)
+DEBUG:1: at (10:49:06)
+DEBUG:1:relay9_open at Wed Jan 17 10:49:06 2018
+DEBUG:1:Relay_9_ON at (10:49:06)
+DEBUG:1: at (10:49:07)
+DEBUG:1:relay9_close at Wed Jan 17 10:49:07 2018
+DEBUG:1:Relay_9_OFF at (10:49:07)
+DEBUG:1: at (10:49:09)
+DEBUG:1:relay9_open at Wed Jan 17 10:49:09 2018
+DEBUG:1:Relay_9_ON at (10:49:09)
+DEBUG:1: at (10:49:13)
+DEBUG:1:relay9_close at Wed Jan 17 10:49:13 2018
+DEBUG:1:Relay_9_OFF at (10:49:13)

@@ -1,0 +1,43 @@
+DEBUG:1:Connection Successful at Sun Jan 14 11:20:34 2018
+DEBUG:1: at (11:20:35)
+DEBUG:1:Vents Open at Sun Jan 14 11:20:35 2018
+DEBUG:1: at (11:20:38)
+DEBUG:1:Vents Open at Sun Jan 14 11:20:38 2018
+DEBUG:1: at (11:20:57)
+DEBUG:1:relay4_open at Sun Jan 14 11:20:57 2018
+DEBUG:1:Relay_4_ON at (11:20:57)
+DEBUG:1:Relay_4_ON at (11:20:57)
+DEBUG:1: at (11:21:04)
+DEBUG:1:Vents Open at Sun Jan 14 11:21:04 2018
+DEBUG:1: at (11:21:12)
+DEBUG:1:relay5_open at Sun Jan 14 11:21:12 2018
+DEBUG:1:Relay_5_ON at (11:21:12)
+DEBUG:1:Relay_5_ON at (11:21:12)
+DEBUG:1: at (11:21:19)
+DEBUG:1:relay5_close at Sun Jan 14 11:21:19 2018
+DEBUG:1:Relay_5_OFF at (11:21:19)
+DEBUG:1:Relay_5_OFF at (11:21:19)
+DEBUG:1: at (11:21:20)
+DEBUG:1:relay1_close at Sun Jan 14 11:21:20 2018
+DEBUG:1:Relay_4_OFF at (11:21:20)
+DEBUG:1:Relay_4_OFF at (11:21:20)
+DEBUG:1: at (11:21:21)
+DEBUG:1:Vents Open at Sun Jan 14 11:21:21 2018
+DEBUG:1: at (11:21:23)
+DEBUG:1:Vents Open at Sun Jan 14 11:21:23 2018
+DEBUG:1: at (11:21:23)
+DEBUG:1:Vents Open at Sun Jan 14 11:21:23 2018
+DEBUG:1: at (11:21:24)
+DEBUG:1:Vents Open at Sun Jan 14 11:21:24 2018
+DEBUG:1: at (11:21:25)
+DEBUG:1:relay4_open at Sun Jan 14 11:21:25 2018
+DEBUG:1:Relay_4_ON at (11:21:26)
+DEBUG:1:Relay_4_ON at (11:21:26)
+DEBUG:1: at (11:21:27)
+DEBUG:1:Vents Open at Sun Jan 14 11:21:27 2018
+DEBUG:1: at (11:21:32)
+DEBUG:1:relay2_open at Sun Jan 14 11:21:32 2018
+DEBUG:1:Relay_2_ON at (11:21:32)
+DEBUG:1:Relay_2_ON at (11:21:32)
+DEBUG:1: at (11:21:33)
+DEBUG:1:Vents Open at Sun Jan 14 11:21:33 2018

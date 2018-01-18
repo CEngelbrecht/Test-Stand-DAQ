@@ -1,0 +1,359 @@
+DEBUG:1:Connection Successful at Sun Jan 14 13:56:44 2018
+DEBUG:1: at (13:57:03)
+DEBUG:1:relay1_open at Sun Jan 14 13:57:03 2018
+DEBUG:1:Relay_1_ON at (13:57:03)
+DEBUG:1: at (13:57:05)
+DEBUG:1:relay1_close at Sun Jan 14 13:57:05 2018
+DEBUG:1:Relay_1_OFF at (13:57:05)
+DEBUG:1: at (13:57:06)
+DEBUG:1:relay1_open at Sun Jan 14 13:57:06 2018
+DEBUG:1:Relay_1_ON at (13:57:06)
+DEBUG:1: at (14:25:18)
+DEBUG:1:relay2_open at Sun Jan 14 14:25:18 2018
+DEBUG:1:Relay_2_ON at (14:25:18)
+DEBUG:1: at (14:25:20)
+DEBUG:1:relay2_close at Sun Jan 14 14:25:20 2018
+DEBUG:1:Relay_2_OFF at (14:25:20)
+DEBUG:1: at (14:25:22)
+DEBUG:1:relay4_open at Sun Jan 14 14:25:22 2018
+DEBUG:1:Relay_4_ON at (14:25:22)
+DEBUG:1: at (14:25:25)
+DEBUG:1:relay1_close at Sun Jan 14 14:25:25 2018
+DEBUG:1:Relay_4_OFF at (14:25:25)
+DEBUG:1: at (14:26:20)
+DEBUG:1:relay1_close at Sun Jan 14 14:26:20 2018
+DEBUG:1:Relay_1_OFF at (14:26:20)
+DEBUG:1: at (14:27:29)
+DEBUG:1:relay3_open at Sun Jan 14 14:27:29 2018
+DEBUG:1:Relay_3_ON at (14:27:29)
+DEBUG:1: at (14:27:30)
+DEBUG:1:relay3_close at Sun Jan 14 14:27:30 2018
+DEBUG:1:Relay_3_OFF at (14:27:30)
+DEBUG:1: at (14:28:00)
+DEBUG:1:relay1_open at Sun Jan 14 14:28:00 2018
+DEBUG:1:Relay_1_ON at (14:28:00)
+DEBUG:1: at (14:28:02)
+DEBUG:1:relay3_open at Sun Jan 14 14:28:02 2018
+DEBUG:1:Relay_3_ON at (14:28:02)
+DEBUG:1: at (14:28:05)
+DEBUG:1:Vents Open at Sun Jan 14 14:28:05 2018
+DEBUG:1: at (15:03:25)
+DEBUG:1:Vents Close at Sun Jan 14 15:03:25 2018
+DEBUG:1: at (15:03:27)
+DEBUG:1:Vents Close at Sun Jan 14 15:03:27 2018
+DEBUG:1: at (15:03:31)
+DEBUG:1:Vents Open at Sun Jan 14 15:03:31 2018
+DEBUG:1: at (15:03:32)
+DEBUG:1:Vents Close at Sun Jan 14 15:03:32 2018
+DEBUG:1: at (15:03:33)
+DEBUG:1:Vents Open at Sun Jan 14 15:03:33 2018
+DEBUG:1: at (15:03:37)
+DEBUG:1:relay1_close at Sun Jan 14 15:03:37 2018
+DEBUG:1:Relay_1_OFF at (15:03:37)
+DEBUG:1: at (15:03:39)
+DEBUG:1:relay1_open at Sun Jan 14 15:03:39 2018
+DEBUG:1:Relay_1_ON at (15:03:39)
+DEBUG:1: at (15:03:42)
+DEBUG:1:relay3_close at Sun Jan 14 15:03:42 2018
+DEBUG:1:Relay_3_OFF at (15:03:42)
+DEBUG:1: at (15:03:43)
+DEBUG:1:relay3_open at Sun Jan 14 15:03:43 2018
+DEBUG:1:Relay_3_ON at (15:03:43)
+DEBUG:1: at (15:03:51)
+DEBUG:1:relay2_open at Sun Jan 14 15:03:51 2018
+DEBUG:1:Relay_2_ON at (15:03:51)
+DEBUG:1: at (15:03:52)
+DEBUG:1:relay4_open at Sun Jan 14 15:03:52 2018
+DEBUG:1:Relay_4_ON at (15:03:52)
+DEBUG:1: at (15:03:57)
+DEBUG:1:relay5_open at Sun Jan 14 15:03:57 2018
+DEBUG:1:Relay_5_ON at (15:03:57)
+DEBUG:1: at (15:03:58)
+DEBUG:1:relay6_open at Sun Jan 14 15:03:58 2018
+DEBUG:1:Relay_6_ON at (15:03:58)
+DEBUG:1: at (15:12:05)
+DEBUG:1:Vents Close at Sun Jan 14 15:12:05 2018
+DEBUG:1: at (15:14:42)
+DEBUG:1:relay1_close at Sun Jan 14 15:14:42 2018
+DEBUG:1:Relay_1_OFF at (15:14:42)
+DEBUG:1: at (15:15:10)
+DEBUG:1:relay1_open at Sun Jan 14 15:15:10 2018
+DEBUG:1:Relay_1_ON at (15:15:10)
+DEBUG:1: at (15:15:13)
+DEBUG:1:Vents Open at Sun Jan 14 15:15:13 2018
+DEBUG:1: at (15:23:34)
+DEBUG:1:relay1_close at Sun Jan 14 15:23:34 2018
+DEBUG:1:Relay_4_OFF at (15:23:34)
+DEBUG:1: at (15:30:30)
+DEBUG:1:relay4_open at Sun Jan 14 15:30:30 2018
+DEBUG:1:Relay_4_ON at (15:30:30)
+DEBUG:1: at (15:30:31)
+DEBUG:1:relay1_close at Sun Jan 14 15:30:31 2018
+DEBUG:1:Relay_4_OFF at (15:30:31)
+DEBUG:1: at (15:31:16)
+DEBUG:1:relay4_open at Sun Jan 14 15:31:16 2018
+DEBUG:1:Relay_4_ON at (15:31:16)
+DEBUG:1: at (15:31:17)
+DEBUG:1:relay1_close at Sun Jan 14 15:31:17 2018
+DEBUG:1:Relay_4_OFF at (15:31:17)
+DEBUG:1: at (15:32:13)
+DEBUG:1:relay4_open at Sun Jan 14 15:32:13 2018
+DEBUG:1:Relay_4_ON at (15:32:13)
+DEBUG:1: at (15:32:14)
+DEBUG:1:relay1_close at Sun Jan 14 15:32:14 2018
+DEBUG:1:Relay_4_OFF at (15:32:14)
+DEBUG:1: at (15:32:58)
+DEBUG:1:relay4_open at Sun Jan 14 15:32:58 2018
+DEBUG:1:Relay_4_ON at (15:32:58)
+DEBUG:1: at (15:32:59)
+DEBUG:1:relay1_close at Sun Jan 14 15:32:59 2018
+DEBUG:1:Relay_4_OFF at (15:32:59)
+DEBUG:1: at (15:33:36)
+DEBUG:1:relay4_open at Sun Jan 14 15:33:36 2018
+DEBUG:1:Relay_4_ON at (15:33:36)
+DEBUG:1: at (15:33:37)
+DEBUG:1:relay1_close at Sun Jan 14 15:33:37 2018
+DEBUG:1:Relay_4_OFF at (15:33:37)
+DEBUG:1: at (15:35:24)
+DEBUG:1:relay4_open at Sun Jan 14 15:35:24 2018
+DEBUG:1:Relay_4_ON at (15:35:24)
+DEBUG:1: at (15:35:25)
+DEBUG:1:relay1_close at Sun Jan 14 15:35:25 2018
+DEBUG:1:Relay_4_OFF at (15:35:25)
+DEBUG:1: at (15:37:53)
+DEBUG:1:relay4_open at Sun Jan 14 15:37:53 2018
+DEBUG:1:Relay_4_ON at (15:37:53)
+DEBUG:1: at (15:37:54)
+DEBUG:1:relay1_close at Sun Jan 14 15:37:54 2018
+DEBUG:1:Relay_4_OFF at (15:37:54)
+DEBUG:1: at (15:39:30)
+DEBUG:1:relay4_open at Sun Jan 14 15:39:30 2018
+DEBUG:1:Relay_4_ON at (15:39:30)
+DEBUG:1: at (15:39:31)
+DEBUG:1:relay1_close at Sun Jan 14 15:39:31 2018
+DEBUG:1:Relay_4_OFF at (15:39:31)
+DEBUG:1: at (15:41:42)
+DEBUG:1:relay4_open at Sun Jan 14 15:41:42 2018
+DEBUG:1:Relay_4_ON at (15:41:42)
+DEBUG:1: at (15:41:43)
+DEBUG:1:relay1_close at Sun Jan 14 15:41:43 2018
+DEBUG:1:Relay_4_OFF at (15:41:43)
+DEBUG:1: at (15:41:52)
+DEBUG:1:relay4_open at Sun Jan 14 15:41:52 2018
+DEBUG:1:Relay_4_ON at (15:41:52)
+DEBUG:1: at (15:41:53)
+DEBUG:1:relay1_close at Sun Jan 14 15:41:53 2018
+DEBUG:1:Relay_4_OFF at (15:41:53)
+DEBUG:1: at (15:43:35)
+DEBUG:1:relay4_open at Sun Jan 14 15:43:35 2018
+DEBUG:1:Relay_4_ON at (15:43:35)
+DEBUG:1: at (15:43:36)
+DEBUG:1:relay1_close at Sun Jan 14 15:43:36 2018
+DEBUG:1:Relay_4_OFF at (15:43:36)
+DEBUG:1: at (15:46:07)
+DEBUG:1:relay2_close at Sun Jan 14 15:46:07 2018
+DEBUG:1:Relay_2_OFF at (15:46:07)
+DEBUG:1: at (15:47:48)
+DEBUG:1:relay4_open at Sun Jan 14 15:47:48 2018
+DEBUG:1:Relay_4_ON at (15:47:48)
+DEBUG:1: at (15:47:49)
+DEBUG:1:relay1_close at Sun Jan 14 15:47:49 2018
+DEBUG:1:Relay_4_OFF at (15:47:49)
+DEBUG:1: at (15:47:53)
+DEBUG:1:relay2_open at Sun Jan 14 15:47:53 2018
+DEBUG:1:Relay_2_ON at (15:47:53)
+DEBUG:1: at (15:47:54)
+DEBUG:1:relay2_close at Sun Jan 14 15:47:54 2018
+DEBUG:1:Relay_2_OFF at (15:47:54)
+DEBUG:1: at (15:48:55)
+DEBUG:1:Vents Close at Sun Jan 14 15:48:55 2018
+DEBUG:1: at (15:48:56)
+DEBUG:1:Vents Open at Sun Jan 14 15:48:56 2018
+DEBUG:1: at (15:48:58)
+DEBUG:1:Vents Close at Sun Jan 14 15:48:58 2018
+DEBUG:1: at (15:51:24)
+DEBUG:1:Vents Open at Sun Jan 14 15:51:24 2018
+DEBUG:1: at (15:51:26)
+DEBUG:1:Vents Close at Sun Jan 14 15:51:26 2018
+DEBUG:1: at (15:51:34)
+DEBUG:1:relay2_open at Sun Jan 14 15:51:34 2018
+DEBUG:1:Relay_2_ON at (15:51:34)
+DEBUG:1: at (15:51:48)
+DEBUG:1:relay2_close at Sun Jan 14 15:51:48 2018
+DEBUG:1:Relay_2_OFF at (15:51:48)
+DEBUG:1: at (15:53:04)
+DEBUG:1:relay2_open at Sun Jan 14 15:53:04 2018
+DEBUG:1:Relay_2_ON at (15:53:04)
+DEBUG:1: at (15:53:14)
+DEBUG:1:relay2_close at Sun Jan 14 15:53:14 2018
+DEBUG:1:Relay_2_OFF at (15:53:14)
+DEBUG:1: at (15:54:06)
+DEBUG:1:relay4_open at Sun Jan 14 15:54:06 2018
+DEBUG:1:Relay_4_ON at (15:54:06)
+DEBUG:1: at (15:54:56)
+DEBUG:1:Vents Open at Sun Jan 14 15:54:56 2018
+DEBUG:1: at (15:54:57)
+DEBUG:1:Vents Close at Sun Jan 14 15:54:57 2018
+DEBUG:1: at (15:56:33)
+DEBUG:1:Vents Open at Sun Jan 14 15:56:33 2018
+DEBUG:1: at (15:56:34)
+DEBUG:1:Vents Close at Sun Jan 14 15:56:34 2018
+DEBUG:1: at (15:59:15)
+DEBUG:1:Vents Open at Sun Jan 14 15:59:15 2018
+DEBUG:1: at (15:59:16)
+DEBUG:1:Vents Close at Sun Jan 14 15:59:16 2018
+DEBUG:1: at (15:59:58)
+DEBUG:1:Vents Open at Sun Jan 14 15:59:58 2018
+DEBUG:1: at (15:59:59)
+DEBUG:1:Vents Close at Sun Jan 14 15:59:59 2018
+DEBUG:1: at (16:00:09)
+DEBUG:1:Vents Open at Sun Jan 14 16:00:09 2018
+DEBUG:1: at (16:00:10)
+DEBUG:1:Vents Close at Sun Jan 14 16:00:10 2018
+DEBUG:1: at (16:00:39)
+DEBUG:1:Vents Open at Sun Jan 14 16:00:39 2018
+DEBUG:1: at (16:00:40)
+DEBUG:1:Vents Close at Sun Jan 14 16:00:40 2018
+DEBUG:1: at (16:01:56)
+DEBUG:1:Vents Open at Sun Jan 14 16:01:56 2018
+DEBUG:1: at (16:01:57)
+DEBUG:1:Vents Close at Sun Jan 14 16:01:57 2018
+DEBUG:1: at (16:02:06)
+DEBUG:1:Vents Open at Sun Jan 14 16:02:06 2018
+DEBUG:1: at (16:02:07)
+DEBUG:1:Vents Close at Sun Jan 14 16:02:07 2018
+DEBUG:1: at (16:02:39)
+DEBUG:1:Vents Open at Sun Jan 14 16:02:39 2018
+DEBUG:1: at (16:02:40)
+DEBUG:1:Vents Close at Sun Jan 14 16:02:40 2018
+DEBUG:1: at (16:05:36)
+DEBUG:1:Vents Open at Sun Jan 14 16:05:36 2018
+DEBUG:1: at (16:05:38)
+DEBUG:1:Vents Close at Sun Jan 14 16:05:38 2018
+DEBUG:1: at (16:08:21)
+DEBUG:1:Vents Open at Sun Jan 14 16:08:21 2018
+DEBUG:1: at (16:08:22)
+DEBUG:1:Vents Close at Sun Jan 14 16:08:22 2018
+DEBUG:1: at (16:14:24)
+DEBUG:1:Vents Open at Sun Jan 14 16:14:24 2018
+DEBUG:1: at (16:14:26)
+DEBUG:1:Vents Close at Sun Jan 14 16:14:26 2018
+DEBUG:1: at (16:15:20)
+DEBUG:1:Vents Open at Sun Jan 14 16:15:20 2018
+DEBUG:1: at (16:15:22)
+DEBUG:1:Vents Close at Sun Jan 14 16:15:22 2018
+DEBUG:1: at (16:16:55)
+DEBUG:1:Vents Open at Sun Jan 14 16:16:55 2018
+DEBUG:1: at (16:16:56)
+DEBUG:1:Vents Close at Sun Jan 14 16:16:56 2018
+DEBUG:1: at (16:20:50)
+DEBUG:1:Vents Open at Sun Jan 14 16:20:50 2018
+DEBUG:1: at (16:21:11)
+DEBUG:1:relay3_close at Sun Jan 14 16:21:11 2018
+DEBUG:1:Relay_3_OFF at (16:21:11)
+DEBUG:1: at (16:21:26)
+DEBUG:1:relay3_open at Sun Jan 14 16:21:26 2018
+DEBUG:1:Relay_3_ON at (16:21:26)
+DEBUG:1: at (16:21:34)
+DEBUG:1:relay2_open at Sun Jan 14 16:21:34 2018
+DEBUG:1:Relay_2_ON at (16:21:34)
+DEBUG:1: at (16:21:35)
+DEBUG:1:relay2_close at Sun Jan 14 16:21:35 2018
+DEBUG:1:Relay_2_OFF at (16:21:35)
+DEBUG:1: at (16:21:49)
+DEBUG:1:relay1_close at Sun Jan 14 16:21:49 2018
+DEBUG:1:Relay_4_OFF at (16:21:49)
+DEBUG:1: at (16:25:47)
+DEBUG:1:Vents Open at Sun Jan 14 16:25:47 2018
+DEBUG:1: at (16:26:49)
+DEBUG:1:relay1_close at Sun Jan 14 16:26:49 2018
+DEBUG:1:Relay_1_OFF at (16:26:49)
+DEBUG:1: at (16:27:18)
+DEBUG:1:relay8_open at Sun Jan 14 16:27:18 2018
+DEBUG:1:Relay_8_ON at (16:27:18)
+DEBUG:1: at (16:27:57)
+DEBUG:1:Vents Close at Sun Jan 14 16:27:57 2018
+DEBUG:1: at (16:28:16)
+DEBUG:1:relay6_close at Sun Jan 14 16:28:16 2018
+DEBUG:1:Relay_6_OFF at (16:28:16)
+DEBUG:1: at (16:28:21)
+DEBUG:1:Vents Close at Sun Jan 14 16:28:21 2018
+DEBUG:1: at (16:28:36)
+DEBUG:1:relay1_open at Sun Jan 14 16:28:36 2018
+DEBUG:1:Relay_1_ON at (16:28:36)
+DEBUG:1: at (16:28:46)
+DEBUG:1:Vents Close at Sun Jan 14 16:28:46 2018
+DEBUG:1: at (16:29:27)
+DEBUG:1:relay6_open at Sun Jan 14 16:29:27 2018
+DEBUG:1:Relay_6_ON at (16:29:27)
+DEBUG:1: at (16:29:29)
+DEBUG:1:relay6_close at Sun Jan 14 16:29:29 2018
+DEBUG:1:Relay_6_OFF at (16:29:29)
+DEBUG:1: at (16:29:33)
+DEBUG:1:relay6_open at Sun Jan 14 16:29:33 2018
+DEBUG:1:Relay_6_ON at (16:29:33)
+DEBUG:1: at (16:29:52)
+DEBUG:1:relay6_close at Sun Jan 14 16:29:52 2018
+DEBUG:1:Relay_6_OFF at (16:29:52)
+DEBUG:1: at (16:29:54)
+DEBUG:1:relay6_open at Sun Jan 14 16:29:54 2018
+DEBUG:1:Relay_6_ON at (16:29:54)
+DEBUG:1: at (16:30:39)
+DEBUG:1:relay6_close at Sun Jan 14 16:30:39 2018
+DEBUG:1:Relay_6_OFF at (16:30:39)
+DEBUG:1: at (16:30:43)
+DEBUG:1:relay6_open at Sun Jan 14 16:30:43 2018
+DEBUG:1:Relay_6_ON at (16:30:43)
+DEBUG:1: at (16:30:50)
+DEBUG:1:relay8_close at Sun Jan 14 16:30:50 2018
+DEBUG:1:Relay_8_OFF at (16:30:50)
+DEBUG:1: at (16:30:55)
+DEBUG:1:relay6_close at Sun Jan 14 16:30:55 2018
+DEBUG:1:Relay_6_OFF at (16:30:55)
+DEBUG:1: at (16:31:00)
+DEBUG:1:relay6_open at Sun Jan 14 16:31:00 2018
+DEBUG:1:Relay_6_ON at (16:31:00)
+DEBUG:1: at (16:32:48)
+DEBUG:1:Vents Open at Sun Jan 14 16:32:48 2018
+DEBUG:1: at (16:33:11)
+DEBUG:1:relay1_close at Sun Jan 14 16:33:11 2018
+DEBUG:1:Relay_1_OFF at (16:33:11)
+DEBUG:1: at (16:33:59)
+DEBUG:1:Vents Close at Sun Jan 14 16:33:59 2018
+DEBUG:1: at (16:34:05)
+DEBUG:1:Vents Close at Sun Jan 14 16:34:05 2018
+DEBUG:1: at (16:34:23)
+DEBUG:1:relay1_open at Sun Jan 14 16:34:23 2018
+DEBUG:1:Relay_1_ON at (16:34:23)
+DEBUG:1: at (16:34:44)
+DEBUG:1:Vents Close at Sun Jan 14 16:34:44 2018
+DEBUG:1: at (16:35:30)
+DEBUG:1:Vents Close at Sun Jan 14 16:35:30 2018
+DEBUG:1: at (16:35:34)
+DEBUG:1:Vents Close at Sun Jan 14 16:35:34 2018
+DEBUG:1: at (16:35:48)
+DEBUG:1:Vents Close at Sun Jan 14 16:35:48 2018
+DEBUG:1: at (16:35:50)
+DEBUG:1:Vents Close at Sun Jan 14 16:35:50 2018
+DEBUG:1: at (16:36:09)
+DEBUG:1:Vents Close at Sun Jan 14 16:36:09 2018
+DEBUG:1: at (16:36:11)
+DEBUG:1:Vents Close at Sun Jan 14 16:36:11 2018
+DEBUG:1: at (16:36:56)
+DEBUG:1:relay1_close at Sun Jan 14 16:36:56 2018
+DEBUG:1:Relay_1_OFF at (16:36:56)
+DEBUG:1: at (17:00:21)
+DEBUG:1:Vents Open at Sun Jan 14 17:00:21 2018
+DEBUG:1: at (17:00:32)
+DEBUG:1:Vents Close at Sun Jan 14 17:00:32 2018
+DEBUG:1: at (17:00:32)
+DEBUG:1:Vents Close at Sun Jan 14 17:00:32 2018
+DEBUG:1: at (17:00:33)
+DEBUG:1:Vents Close at Sun Jan 14 17:00:33 2018
+DEBUG:1: at (17:00:38)
+DEBUG:1:Vents Open at Sun Jan 14 17:00:38 2018
+DEBUG:1: at (17:00:45)
+DEBUG:1:relay1_open at Sun Jan 14 17:00:45 2018
+DEBUG:1:Relay_1_ON at (17:00:45)
+DEBUG:1: at (17:00:53)
+DEBUG:1:Vents Close at Sun Jan 14 17:00:53 2018

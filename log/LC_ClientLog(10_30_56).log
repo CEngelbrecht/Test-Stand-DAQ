@@ -1,0 +1,8 @@
+DEBUG:1:Connection Unsuccessful at (10:31:19)
+DEBUG:1:Connection Successful at Sun Jan 14 10:31:30 2018
+DEBUG:1: at (10:31:38)
+DEBUG:1:relay1_open at Sun Jan 14 10:31:38 2018
+DEBUG:1:Relay_1_ON at (10:31:38)
+DEBUG:1: at (10:31:39)
+DEBUG:1:relay3_open at Sun Jan 14 10:31:39 2018
+DEBUG:1:Relay_3_ON at (10:31:39)

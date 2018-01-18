@@ -1,0 +1,27 @@
+DEBUG:1:Connection Successful at Wed Jan 17 17:49:12 2018
+DEBUG:1: at (17:49:16)
+DEBUG:1:relay1_open at Wed Jan 17 17:49:16 2018
+DEBUG:1:Relay_1_ON at (17:49:16)
+DEBUG:1: at (17:49:16)
+DEBUG:1:relay2_open at Wed Jan 17 17:49:16 2018
+DEBUG:1:Relay_2_ON at (17:49:16)
+DEBUG:1: at (17:49:17)
+DEBUG:1:relay1_close at Wed Jan 17 17:49:17 2018
+DEBUG:1:Relay_1_OFF at (17:49:17)
+DEBUG:1: at (17:49:17)
+DEBUG:1:relay2_close at Wed Jan 17 17:49:17 2018
+DEBUG:1:Relay_2_OFF at (17:49:18)
+DEBUG:1: at (17:57:24)
+DEBUG:1:relay1_open at Wed Jan 17 17:57:24 2018
+DEBUG:1:Relay_1_ON at (17:57:24)
+DEBUG:1: at (17:57:26)
+DEBUG:1:Vents Close at Wed Jan 17 17:57:26 2018
+DEBUG:1: at (17:57:28)
+DEBUG:1:Vents Open at Wed Jan 17 17:57:28 2018
+DEBUG:1: at (17:59:36)
+DEBUG:1:Vents Close at Wed Jan 17 17:59:36 2018
+DEBUG:1:Connection Successful at Wed Jan 17 18:01:05 2018
+DEBUG:1: at (18:04:19)
+DEBUG:1:Vents Open at Wed Jan 17 18:04:19 2018
+DEBUG:1: at (18:04:20)
+DEBUG:1:Vents Close at Wed Jan 17 18:04:20 2018
